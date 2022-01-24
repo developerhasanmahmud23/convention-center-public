@@ -23,3 +23,8 @@ p{
 .faq-section{
     margin-bottom: 100px;
 }
+
+small{
+    font-size: 10px;
+}
+
